@@ -1,5 +1,6 @@
-**GROUP USAGE**
+USE db_university;
 
+/*
 
 1. Contare quanti iscritti ci sono stati ogni anno?
 
@@ -27,7 +28,7 @@ ORDER BY `exam_id`;
 4. Contare quanti corsi di laurea ci sono per ogni dipartimento (PS: NON HO CAPITO)
 
 
-**SELECT USAGE**
+** SELECT UDAGE **
 
 
 1. Selezionare tutti gli studenti nati nel 1990 (160)
@@ -80,3 +81,21 @@ SELECT COUNT(*) AS insegnanti_no_tel
 FROM teachers
 WHERE phone IS NULL
 OR phone = ''; 
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
